@@ -4,7 +4,7 @@
 " Last modified: February 7, 2011
 
 function! s:pbcopy()
-  call system("ssh localhost pbcopy", getreg(""))
+  call system("ssh local pbcopy", getreg(""))
 endfunction
 
 command! -nargs=0 -bar PBCopy call s:pbcopy()
