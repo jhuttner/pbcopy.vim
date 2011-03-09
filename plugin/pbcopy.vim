@@ -1,5 +1,6 @@
 " File: pbcopy.vim
 " Author: Tom Stuart
+" User: Joseph Huttner
 " Version: 1.0
 " Last modified: February 7, 2011
 
